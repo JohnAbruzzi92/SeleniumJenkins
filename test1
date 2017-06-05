@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://www.google.fr/" />
+<title>test1</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">test1</td></tr>
+</thead><tbody>
+<tr>
+	<td>click</td>
+	<td>css=img[alt=&quot;Google&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>selectWindow</td>
+	<td>null</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=créer un nouveau job</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.desc</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=name</td>
+	<td>seleniumIntegration</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=ok-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=cb6</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sign in</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=login_field</td>
+	<td>pascalorsini</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=password</td>
+	<td>kipoodu92</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=commit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.repo</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.num.text-emphasized</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=img.avatar</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Your profile</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='show7']/div/a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=The Java Main Method</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=The Java Main Method</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=The Java Main Method</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=lst-ib</td>
+	<td>main hello world java</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=HelloWorld.java - Introduction to Programming in Java</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=img.avatar</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=button.dropdown-item.dropdown-signout</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sign in</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=login_field</td>
+	<td>pascalorsini</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Create an account</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_login</td>
+	<td>blink__92</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_login</td>
+	<td>ab</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_login</td>
+	<td>JohnAbruzzi92</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_email</td>
+	<td>blink__92@hotmail.com</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sign in</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>LOCATOR_DETECTION_FAILED</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=exact:Forgot password?</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=email_field</td>
+	<td>blink__92@hotmail.com</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=commit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Se connecter')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.placeholder.has-focus</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.placeholder.has-focus</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.placeholder.has-focus</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=i0116</td>
+	<td>blink__92@hotmail.com</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=idSIButton9</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=i0118</td>
+	<td>Sabrina13</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=idSIButton9</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=iRemindMeLater</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='_ariaId_65']/div/span/div/div[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=_ariaId_63.folder</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=_ariaId_124</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.ms-font-weight-semilight.ms-font-color-neutralSecondary</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=LPlnk419122</td>
+	<td></td>
+</tr>
+<tr>
+	<td>waitForPopUp</td>
+	<td>_blank</td>
+	<td>30000</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=password</td>
+	<td>kipoodu92</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=password_confirmation</td>
+	<td>kipoodu92</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=commit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=login_field</td>
+	<td>blink__92@hotmail.com</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=commit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='user-links']/li[3]/a/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Your profile</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='js-pjax-container']/div/div[2]/div[3]/nav/a[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='js-pjax-container']/div/div[2]/div[3]/nav/a[5]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='js-pjax-container']/div/div[2]/div[3]/nav/a[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='js-pjax-container']/div/div[2]/div[3]/nav/a[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Takenoko</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Unwatch</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.modal-backdrop.js-touch-events</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=PascalMiage</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='user-links']/li[3]/a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=button.dropdown-item.dropdown-signout</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sign in</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=_ariaId_128</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=i0116</td>
+	<td>robertmichel8@outlook.com</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=idSIButton9</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=i0118</td>
+	<td>kipoodu92</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=idSIButton9</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=iNext</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=iProof3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=iProofLbl3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=iNext</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=iCollectProofCancel</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div._n_G4.ms-bg-color-neutralLight &gt; span._n_y4.nowrap &gt; div._n_z4._n_x4</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div._n_G4.ms-bg-color-themeLight &gt; span._n_y4.nowrap</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div._n_G4.ms-bg-color-themeLight &gt; span._n_y4.nowrap &gt; div._n_z4._n_x4</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=button.__Microsoft_Owa_ConsumerFirstRun_templates_cs_4.o365button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=_ariaId_75.folder</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=_ariaId_75.folder</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=_ariaId_71.folder</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=O365_MeFlexPane_ButtonID</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=_ariaId_326</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sign in</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=password</td>
+	<td>kipoodu92</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=login_field</td>
+	<td>blink__92@hotmail.com</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=commit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='user-links']/li[3]/a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Your profile</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='js-pjax-container']/div/div[2]/div/a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_profile_name</td>
+	<td>JohnAbruzzi92</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#jobs_profile_8861784 &gt; button.btn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='user-links']/li[3]/a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.modal-backdrop.js-touch-events</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Account</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Change username</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@type='button'])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>css=div.facebox-content &gt; div.rename-form.js-user-rename-form &gt; form &gt; p &gt; input[name=&quot;login&quot;]</td>
+	<td>JohnAbruzzi92</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//button[@type='submit'])[6]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Pull requests</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=img.avatar</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Your profile</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Pull requests</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>LOCATOR_DETECTION_FAILED</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='js-pjax-container']/div/div[2]/div[3]/nav/a[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=SeleniumJenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@type='button'])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.modal-backdrop.js-touch-events</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@type='button']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@type='button'])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@type='button'])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.modal-backdrop.js-touch-events</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@type='button'])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.projectUrlStr</td>
+	<td>https://github.com/JohnAbruzzi92/SeleniumJenkins.git</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=radio-block-1</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.url</td>
+	<td>https://github.com/JohnAbruzzi92/SeleniumJenkins.git</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.col-md-offset-2.col-md-20</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=yui-gen19-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=SeleniumHQ htmlSuite Run</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//img[@alt='Help for feature: browser']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.browser</td>
+	<td>firefoxproxy</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//img[@alt='Help for feature: startURL']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.startURL</td>
+	<td>http://www.google.com</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//img[@alt='Help for feature: suiteFile']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.suiteFile</td>
+	<td>/Users/Pascal/MemoireSelenium/test1.html</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.resultFile</td>
+	<td>/Users/Pascal/MemoireSelenium/.html</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.resultFile</td>
+	<td>/Users/Pascal/MemoireSelenium/untitled.html</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=yui-gen21-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Notifier par email</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.recipients</td>
+	<td>pascal.orsini@outlook.com</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen39-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Espace de travail</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.modal-backdrop.js-touch-events</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=SeleniumJenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=SeleniumJenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=JohnAbruzzi92</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.repo.js-repo</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=JohnAbruzzi92</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='js-pjax-container']/div/div[2]/div[3]/nav/a[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=SeleniumJenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=#1</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=p &gt; span &gt; a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Constructions</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Espace de travail</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=JohnAbruzzi92</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='js-pjax-container']/div/div[2]/div[3]/nav/a[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=#2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=img.confluence-embedded-image.confluence-thumbnail</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=fancybox-overlay</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Modifications</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Retour au projet</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=yui-gen25-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Publish Selenium Report</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=yui-gen61-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fileset 'includes'</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=seleniumhq.useTestCommands</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>/Users/Pascal/MemoireSelenium/untitled.html</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='yui-gen59']/table/tbody/tr[5]/td</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.col-md-offset-2.col-md-20</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>seleniumIntegration/tar</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>seleniumIntegration/target/test-reports/*.html</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>/Users/Pascal/MemoireSelenium/untitled.html</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='yui-gen59']/table/tbody/tr[4]/td[2]/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>Users/Pascal/MemoireSelenium/untitled.html</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumhtmlreport Plugin - Jenkins - Jenkins Wiki</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=main</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=java - How to configure Selenium HTML Reports in Jenkins - Stack ...</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Selenium HTML Report Plugin</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumhtmlreport Plugin</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.page-metadata-attachments-text</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=GitHub</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//button[@type='button']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Download ZIP</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.modal-backdrop.js-touch-events</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>*/(Job Name)/workspace/</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=name</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>*/seleniumIntegration/workspace/</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#yui-gen59 &gt; table &gt; tbody &gt; tr &gt; td</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>/seleniumIntegration/workspace/</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td>/workspace/</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=seleniumhq.testResults</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='yui-gen59']/table/tbody/tr[7]/td[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Fileset 'includes'</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Jenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Administrer Jenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Gestion des plugins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Disponibles</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=plugin.seleniumhtmlreport.default</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=plugin.seleniumhtmlreport.default</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=plugin.seleniumhtmlreport.default</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen3-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=scheduleRestartCheckbox</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Retour au Tableau de bord</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=#3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Modifications</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=a.task-link &gt; b</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Retour au projet</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=yui-gen25-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Publish Selenium Html Report</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen43-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=#4</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Retour au projet</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Espace de travail</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=CHAMPIONNAT D'ESPAGNE Classement 2016-2017 - L'Équipe</td>
+	<td></td>
+</tr>
+<tr>
+	<td>selectWindow</td>
+	<td>name=yssdTUvX</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Calendrier &amp; résultats</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=workspace</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.testResultsDir</td>
+	<td>/Users/Pascal/.jenkins/workspace/seleniumIntegration</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=workspace</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=src</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-go-next.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=pattern</td>
+	<td>seleniumResults</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-go-next.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.testResultsDir</td>
+	<td> /job/seleniumIntegration/ws/</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen46-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=exact:http://www.seleniumhq.org/download/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Jenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Administrer Jenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer le système</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.seleniumhq.seleniumRunner</td>
+	<td>/Users/Pascal/Downloads/selenium-html-runner-3.4.0.jar </td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.seleniumhq.seleniumRunner</td>
+	<td>/Users/Pascal/Downloads/selenium-html-runner-3.4.0.jar</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen37-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=i0116</td>
+	<td>pascal.orsini@outlook.com</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=idSIButton9</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=i0118</td>
+	<td>kipoodu92</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=idSIButton9</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=lst-ib</td>
+	<td>Exception in thread &quot;main&quot; java.nio.file.FileAlreadyExistsException</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=exact:Java: Using nio Files.copy to Move Directory - Stack Overflow</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.browser</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//img[@alt='Help for feature: browser']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.browser</td>
+	<td>*firefox, *chrome</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen46-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=exact:How to Configure Selenium Report plugin in Jenkins? - Stack Overflow</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.testResultsDir</td>
+	<td>/Users/Pascal/MemoireSelenium/TestResult</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='yui-gen23']/table/tbody/tr[5]/td[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=workspace</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.testResultsDir</td>
+	<td> /job/seleniumIntegration/ws/</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=workspace</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=.git</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=vue</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=SeleniumJenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=publish selenium reports from jenkins - Stack Overflow</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.testResultsDir</td>
+	<td>TestResult</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='yui-gen23']/table/tbody/tr[4]/td[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.testResultsDir</td>
+	<td>TestResult/</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen46-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Retour au projet</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//img[@alt='Help for feature: suiteFile']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.suiteFile</td>
+	<td>test1.html</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.resultFile</td>
+	<td>untitled.html</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen46-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Retour au projet</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Retour au projet</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Espace de travail</td>
+	<td></td>
+</tr>
+<tr>
+	<td>typeAndWait</td>
+	<td>name=pattern</td>
+	<td>TestResult</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=SeleniumJenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=pattern</td>
+	<td>TestResult</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-go-next.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Espace de travail</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=.git</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=out</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=SeleniumJenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=SeleniumJenkins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.testResultsDir</td>
+	<td>/job/seleniumIntegration/ws/out/production/SeleniumJenkins/</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.testResultsDir</td>
+	<td>SeleniumJenkins/</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='yui-gen23']/table/tbody/tr[4]/td</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen46-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=seleniumIntegration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configurer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='main-panel']/div/div/div/div[2]/div[3]/div/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//img[@alt='Help for feature: suiteFile']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=_.suiteFile</td>
+	<td>/Users/Pascal/MemoireSelenium/test1.html </td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=yui-gen46-button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Lancer un build</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=#1​4</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img.icon-red.icon-sm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Configuration for &quot;SeleniumHQ htmlSuite Run&quot; in Jenkins to run ...</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

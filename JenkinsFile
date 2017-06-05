@@ -1,0 +1,25 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Construction') {
+            steps {
+                echo 'En construction..'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'En cours de test..'
+            }
+        }
+        stage('Déploiement') {
+            steps {
+                echo 'En cours de déploiement....'
+            }
+        }
+    }
+}
+
+
+
+
